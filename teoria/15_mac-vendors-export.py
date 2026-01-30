@@ -15,9 +15,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+##_____________----------_____________-----------____________-----------
 
-
-_________________________________________ 
 def main():
     mac = input("inserisci il MAC addres :")
     file= open("mac-vendors-export.csv", "r") ##oggetto file

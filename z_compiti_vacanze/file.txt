@@ -1,0 +1,3 @@
+Python è un linguaggio di programmazione.
+È semplice da imparare e molto potente.
+Viene usato in molti ambiti diversi.

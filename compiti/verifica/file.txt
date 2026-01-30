@@ -1,0 +1,25 @@
+SQL
+NoSQL
+12345
+!@#$%
+Alpha
+Beta123
+Gamma!
+Delta Test
+École
+Français
+Español
+日本語
+한국어
+test123
+abc
+XYZ
+Hello123World
+Empty
+
+Special!Chars
+OnlyLetters
+With Spaces
+With-Dash
+With_Underscore
+3NumbersFirst

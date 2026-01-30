@@ -17,7 +17,5 @@ def media(lista):
     
     n_lista = len(lista)
 
-
-
     return somma/n_lista, n_lista
 
